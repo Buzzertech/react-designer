@@ -22,6 +22,7 @@
   "license": "MIT",
   "homepage": "https://github.com/fatiherikli/react-designer",
   "devDependencies": {
+    "@babel/plugin-proposal-export-default-from": "^7.2.0",
     "babel-cli": "^6.5.1",
     "babel-core": "^6.0.20",
     "babel-eslint": "^4.1.3",
